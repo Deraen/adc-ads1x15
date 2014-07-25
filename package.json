@@ -1,0 +1,23 @@
+{
+  "name": "adc-ads1x15",
+  "version": "0.0.1",
+  "description": "JavaScript module for the ADS1015/ADS1115 analog-to-digital converter chip",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Deraen/adc-ads1x15.git"
+  },
+  "keywords": [
+    "tessel",
+    "adc"
+  ],
+  "author": "Juho Teperi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deraen/adc-ads1x15/issues"
+  },
+  "homepage": "https://github.com/Deraen/adc-ads1x15",
+  "dependencies": {
+    "lodash.defaults": "^2.4.1"
+  }
+}
